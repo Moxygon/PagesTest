@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 ---
 ### Index Page 5
 
