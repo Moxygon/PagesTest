@@ -1,7 +1,4 @@
----
-title: 
----
-### Index Page 7
+### Index Page 8
 
 You can use the [editor on GitHub](https://github.com/Moxygon/PagesTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
