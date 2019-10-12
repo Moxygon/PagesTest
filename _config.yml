@@ -5,3 +5,6 @@ description: A wonderful site
 
 # Build settings
 theme: minima
+
+header_pages:
+  - about.md
