@@ -4,7 +4,7 @@ title: Index
 ---
 
 ## Disclaimer:
-This site in a very early state of development
+This site is in a very early state of development.
 
 ## So... what's this?
 
