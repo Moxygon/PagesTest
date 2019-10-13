@@ -3,9 +3,9 @@ layout: page
 title: A Theoretical Wrong Warp
 ---
 
-Today i came accross this address: `0698BD` (Size: 1 Byte), this is a bit the game sets before playing a cutscene from the theater in dragon shores, in order to inform the game that spyro should be taken to the theater whenever the cuscene stops playing.
+Today (2019-10-13) I came accross this address: `0698BD` (Size: 1 Byte), this is a bit the game sets before playing a cutscene from the theater in dragon shores, in order to inform the game that spyro should be taken to the theater whenever the cuscene stops playing.
 
-However if there where a way to manipulate this bit we could wrong warp directly to the theater i dragon shores.
+However if there where a way to manipulate this bit we could wrong warp directly to the theater in dragon shores.
 
 This wrong warp would work after any cutscene doing normal gameplay, even hub world cutscene or potentially the inital cutscene after the 'start game' cutscene.
 
