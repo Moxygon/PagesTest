@@ -18,4 +18,5 @@ Hopefully this will be useful to new runners as well as more experienced players
 
 Topics:
 
-- [The fundamentals](./fundamentals)
+- [The Fundamentals](./fundamentals)
+- [Memory Addresses](./memory_addresses)
