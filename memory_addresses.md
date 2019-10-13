@@ -13,3 +13,4 @@ https://en.wikipedia.org/wiki/Boolean_data_type#C,_C++,_Objective-C,_AWK
 | `069FF8` | Spyro Z | 4 Byte | Probably 'Signed', but not confirmed |       |
 | `060288` | Winter Tundra death barrier Z | 4 Byte | Signed | Default value of 19500 |
 | `060258` | Autumn Plains death barrier Z | 4 Byte | Signed | Default value of 21000 |
+| `0698BB` | Fireball Bit | 1 Byte | Boolean |    |
