@@ -15,3 +15,7 @@ I also wanted a public and easy accessible place for all the knowledge we curren
 I'll try to cover a variety of topics like: In-depth explanations of tricks, glitches and exploits, route comparisons, TASing and Lua scripting, and research in general.
 
 Hopefully this will be useful to new runners as well as more experienced players.
+
+Topics:
+
+- [The fundamentals](./fundamentals)
