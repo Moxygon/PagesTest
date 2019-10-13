@@ -10,3 +10,5 @@ However if there where a way to manipulate this bit we could wrong warp directly
 This wrong warp would work after any cutscene doing normal gameplay, even hub world cutscene or potentially the inital cutscene after the 'start game' cutscene.
 
 The byte resets after the cutscene ends and spyro has return to the theater, after the start menu has shown, when the game resets (quit game) and after the demo gameplay.
+
+(This also works if the bit is flipped and you just enter Dragon Shores)
